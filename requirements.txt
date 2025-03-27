@@ -1,0 +1,6 @@
+streamlit
+groq
+PyPDF2
+exceptions
+python-docx
+python-dotenv
