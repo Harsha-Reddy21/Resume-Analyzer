@@ -1,6 +1,6 @@
-streamlit
-groq
-PyPDF2
-exceptions
-python-docx
-python-dotenv
+streamlit==1.30.0
+groq==0.5.0
+PyPDF2==3.0.1
+exceptions==1.0.0
+python-docx==1.1.0
+python-dotenv==1.0.1
